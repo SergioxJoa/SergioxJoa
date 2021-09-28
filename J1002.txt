@@ -1,0 +1,61 @@
+Name: Sergio Joa
+Journal: J1002
+Date: 24-Aug-2021
+
+
+I recieved assistance from: Sergio Joa
+
+I assisted: Sergio Joa
+
+1.1:
+One of the services I use with a client-server model is Youtube. The other is Canvas.
+
+
+2.1:
+I think that it is important, as if not for this feature new names for directories would constantly have to be created, making using directories extremely inconvenient. You would have to make up an absurdly long name eveytime that you want to make a new directory.
+
+
+3.1:
+I think that this is because the home directory leads to every other directory.
+
+
+4.1:
+Yes, this gives us more specification regarding where in the file heirarchy we are.
+
+
+5.1:
+The up arrow copies the text from the last command. The down arrow clears the text.
+
+
+6.1:
+No, the quotations were removed. The quotations are meant to signify text that isn't a command, used to avoid wanting to use text that also doubles as a comand.
+
+
+7.1:<br>  The tree reveals how directories are connected, and show the entire heiratchy staring from the root.
+
+7.2:
+The usage of tree versus ls depends on if you want to see items within your current directory or within the entire file heirarchy.
+
+
+8.1:
+The numeric argument controls how long the sleep command is active. A larger number will delay the text longer than a smaller one. Using different values, this proves to be true.
+
+
+9.1:
+It outputs a value.
+9.2:
+It doesn't show up, and you are free to do other things and execute other jobs/commands while the background job is running.
+9.3:
+This indicates the job number.
+
+
+10.1:
+I can observe that it shows running jobs. They are shown as running or finished.
+
+What did I learn? What is the big idea?
+Today, I learned about basic functions of the shell and how it works. The big idea was the shell, but I think you could also argue that it was the heirarchy of directories.
+
+What challenges did I encounter?
+I had trouble at first understanding thigs like Unix, GUIs, and CLIs.
+
+Free Reflection: How has what I've learned impacted my thinking?<br> After this lesson, my understanding of shells did not receive any major developments. I learned commands, but other things like the file heirarchy were things that I already knew.
